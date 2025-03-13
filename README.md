@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I'm currently working on web development <br>📖 I'm currently learning Next Js and Dev Ops<br>🤝 I’m looking for help in learning Next Js and Dev Ops<br><br><br>
+🌐 I'm currently working on web development <br>
 
 
 ## 🌐 Socials:
